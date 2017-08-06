@@ -1,0 +1,7 @@
+C:\Users\Johnny\Desktop\ED - Euler method\ED - Euler method\bin\Debug\ED - Euler method.exe.config
+C:\Users\Johnny\Desktop\ED - Euler method\ED - Euler method\obj\Debug\ED - Euler method.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\ED - Euler method\ED - Euler method\bin\Debug\ED - Euler method.exe
+C:\Users\Johnny\Desktop\ED - Euler method\ED - Euler method\bin\Debug\ED - Euler method.pdb
+C:\Users\Johnny\Desktop\ED - Euler method\ED - Euler method\obj\Debug\ED - Euler method.exe
+C:\Users\Johnny\Desktop\ED - Euler method\ED - Euler method\obj\Debug\ED - Euler method.pdb
+C:\Users\Johnny\Desktop\ED - Euler method\ED - Euler method\bin\Debug\Z.Expressions.Eval.dll
