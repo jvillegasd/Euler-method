@@ -11,7 +11,7 @@ namespace ED___Euler_method
         static void Main(string[] args)
         {
             double ivpx = -1; //Inital value of X
-            double ivpy = 3; //Initial vlue of Y
+            double ivpy = 3; //Initial value of Y
             double finalx = 2; //Final value of X
             double n = 3; //Steps
             double increase = findIncrement(ivpx, finalx, n); //Increase value
